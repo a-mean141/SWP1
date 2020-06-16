@@ -1,2 +1,2 @@
-# 20203036	Minsub Kim
+# 2020XXXX	Minsub Kim
 # Kookmin Univ. Sw
